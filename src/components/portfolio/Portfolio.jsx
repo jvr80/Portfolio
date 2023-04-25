@@ -33,21 +33,21 @@ const data = [
   {
     id: 4,
     Image: IMG4,
-    tittle: 'This is a portfolio item tittle04',
+    tittle: 'Expense-Manager',
     github: 'https://github.com/jvr80/Expense-manager',
     demo: 'https://expense-manager-gamma.vercel.app/' 
   },
   {
     id: 5,
     Image: IMG5,
-    tittle: 'This is a portfolio item tittle 05',
+    tittle: 'Paratha & Food Store',
     github: 'https://github.com/jvr80/Paratha-store',
     demo: 'https://paratha-store-nine.vercel.app/' 
   },
   {
     id: 6,
     Image: IMG6,
-    tittle: 'This is a portfolio item tittle 06',
+    tittle: 'Vedshree',
     github: 'https://github.com',
     demo: 'https://www.vedshree.online/' 
   },
